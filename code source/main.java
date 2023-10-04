@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Main : MasterMind
- * @author Léo Cirpaci
+ * @author Finnwinch
  * @version 1.0-nogui
  */
 public class main {
